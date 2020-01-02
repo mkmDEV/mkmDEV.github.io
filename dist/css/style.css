@@ -1,0 +1,85 @@
+*, *::before, *::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  background-color: rgba(46, 87, 107, 0.4);
+  height: 100vh;
+  background-image: url("https://78.media.tumblr.com/cae86e76225a25b17332dfc9cf8b1121/tumblr_p7n8kqHMuD1uy4lhuo1_540.png"), url("https://78.media.tumblr.com/66445d34fe560351d474af69ef3f2fb0/tumblr_p7n908E1Jb1uy4lhuo1_1280.png"), url("https://78.media.tumblr.com/8cd0a12b7d9d5ba2c7d26f42c25de99f/tumblr_p7n8kqHMuD1uy4lhuo2_1280.png"), url("https://78.media.tumblr.com/5ecb41b654f4e8878f59445b948ede50/tumblr_p7n8on19cV1uy4lhuo1_1280.png"), url("https://78.media.tumblr.com/28bd9a2522fbf8981d680317ccbf4282/tumblr_p7n8kqHMuD1uy4lhuo3_1280.png");
+  background-repeat: repeat-x;
+  background-position: 0 20%, 0 100%, 0 50%, 0 100%, 0 0;
+  background-size: 250vw, 80vw, 50vw 20vw, 100vw, 40vw 26vw;
+  -webkit-animation: 50s para infinite linear;
+          animation: 50s para infinite linear;
+}
+
+@-webkit-keyframes para {
+  100% {
+    background-position: -5000px 20%, -800px 95%, 500px 50%, 1000px 100%, 400px 0;
+  }
+}
+
+@keyframes para {
+  100% {
+    background-position: -5000px 20%, -800px 95%, 500px 50%, 1000px 100%, 400px 0;
+  }
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.piano {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.key {
+  height: calc(var(--width) * 4);
+  width: var(--width);
+  position: relative;
+  border-radius: 0 0 15px 15px;
+}
+
+.key::before {
+  content: attr(data-note);
+  position: absolute;
+  bottom: 1ex;
+  left: calc(50% - 1ex);
+}
+
+.white {
+  --width: 100px;
+  background: white;
+  border: 1px solid #333333;
+}
+
+.white.active {
+  background: #cccccc;
+}
+
+.black {
+  --width: 60px;
+  background: black;
+  margin-left: calc(var(--width) / -2);
+  margin-right: calc(var(--width) / -2);
+  z-index: 2;
+  color: white;
+}
+
+.black.active {
+  background: #333333;
+}
+/*# sourceMappingURL=style.css.map */

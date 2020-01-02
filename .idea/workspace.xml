@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e69a513f-1008-45d7-b422-92177c7a01ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VqlTIWsEkQWEdRpCwomCaWYTAW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69a513f-1008-45d7-b422-92177c7a01ca" name="Default Changelist" comment="" />
+      <created>1577988511793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577988511793</updated>
+      <workItem from="1577988514444" duration="1540000" />
+      <workItem from="1577990151037" duration="600000" />
+      <workItem from="1577990754571" duration="1086000" />
+      <workItem from="1577992644225" duration="371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1044" y="171" key="#File_Watchers" timestamp="1577990568966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1044" y="171" key="#File_Watchers/0.0.1920.1040@0.0.1920.1040" timestamp="1577990568966" />
+    <state x="828" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577990767826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577990767826" />
+    <state x="1231" y="218" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577990566095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1231" y="218" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577990566095" />
+    <state x="1182" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577990225902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1182" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577990225902" />
+    <state x="1086" y="291" key="EditFileWatcherDialog" timestamp="1577990568034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1086" y="291" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577990568034" />
+    <state x="1231" y="268" key="FileChooserDialogImpl" timestamp="1577990557243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1231" y="268" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577990557243" />
+    <state x="922" y="157" key="SettingsEditor" timestamp="1577990748211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577990748211" />
+  </component>
+</project>
